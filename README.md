@@ -1,0 +1,40 @@
+<h1 align=center>计算机视觉</h1>
+
+## 简介
+
+本项目为**华为-东北大学**联合出品《计算机视觉》精品课程代码仓库，点击[这里](./images/poster.png)查看课程简介
+
+## 目录
+
+案例位置在`notebooks`文件夹内，结构如下：
+
+```text
+└── notebooks
+    ├── case0_tensor
+    ├── case1_convolution_and_custom_operator
+    ├── case2_mlp_and_nn
+    ├── case3_preprocess_image_data
+    ├── case4_key_technology_in_ai
+    ├── case5_model_training
+    ├── case6_resnet50_flowers_classification
+    ├── case7_u-net_segmentation
+    ├── case8_gan
+    ├── case9_yolov5_dedection
+    ├── case10_ssd_detedtion
+    └── case11_mobile_depolyment
+```
+
+## 参与贡献
+
+### 贡献代码方式
+
+1.  Fork 本仓库
+2.  新建 feature_xxx 分支（可选）
+3.  提交代码
+4.  新建 Pull Request
+
+### 勘误方式
+
+提交`ISSSUE`
+
+
