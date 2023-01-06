@@ -2,7 +2,7 @@
 
 ## 简介
 
-本项目为**华为-东北大学**联合出品《计算机视觉》精品课程代码仓库，点击[这里](./images/poster.png)查看课程简介。
+本项目为**华为-东北大学**联合出品《计算机视觉》精品课程代码仓库，实验案例基于华为自研深度学习框架[MindSpore](https://www.mindspore.cn/)开发，点击[这里](./images/poster.png)查看课程简介。
 
 <table><tr>
 <td><img src=./images/huawei_logo.png border=0></td>
