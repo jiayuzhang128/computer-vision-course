@@ -2,7 +2,12 @@
 
 ## 简介
 
-本项目为**华为-东北大学**联合出品《计算机视觉》精品课程代码仓库，点击[这里](./images/poster.png)查看课程简介
+本项目为**华为-东北大学**联合出品《计算机视觉》精品课程代码仓库，点击[这里](./images/poster.png)查看课程简介。
+
+<table><tr>
+<td><img src=./images/huawei_logo.png border=0></td>
+<td><img src=./images/neu_logo.png height="90" border=0></td>
+</tr></table>
 
 ## 目录
 
