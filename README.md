@@ -9,6 +9,8 @@
 <td><img src=./images/neu_logo.png height="90" border=0></td>
 </tr></table>
 
+课程视频已上线bilibili平台：[【昇思MindSpore计算机视觉课程，从入门到王者】](https://www.bilibili.com/video/BV1PK411y7dy/?share_source=copy_web&vd_source=f5766ae3673b5d92307f29688f11ca21)
+
 ## 目录
 
 案例位置在`notebooks`文件夹内，结构如下：
